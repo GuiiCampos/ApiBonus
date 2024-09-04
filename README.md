@@ -1,0 +1,1 @@
+Essa api acessa um banco de dados que contem as seguintes colunas: data, ganhos, percas. Essa api tem como objetivo adicionar ganhos e percas monetarias do dia e também realizar consultas atráves da data 
